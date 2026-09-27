@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "asimov-platform",
+  "repo": "package-metrics",
+  "versions": [
+    {
+      "commit": "fbbb5b10f928ec42f77664bc74eaf139a5c08ec3",
+      "parsed_at": "2026-09-27T19:08:20.163709+00:00",
+      "tag": "master",
+      "filetree": "filetree/fbbb5b10f928ec42f77664bc74eaf139a5c08ec3.nq.gz",
+      "blobs": [
+        "blob/80d98c7fabf6b4ea6d32f1a61fd25f37a27478f2.nq.gz",
+        "blob/7ceacdd57cf2bc01059ed9e159c0961b3fead361.nq.gz",
+        "blob/83605f79ea14b94f97900abade872c4193db9757.nq.gz",
+        "blob/fdddb29aa445bf3d6a5d843d6dd77e10a9f99657.nq.gz",
+        "blob/b266d64dbe239a50062ca89c4eacfaec23d7bf01.nq.gz",
+        "blob/859bf60858ff11bba9bd696844720540cc8a8580.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
